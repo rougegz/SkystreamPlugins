@@ -21,6 +21,183 @@
     "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.animedekho.sky"
   },
   {
+    "packageName": "dev.cookie.animestream",
+    "name": "AnimeStream 🇯🇵",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "7,000+ anime series and movies, sub and dub.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Japanese",
+      "English"
+    ],
+    "categories": [
+      "Anime",
+      "Movies"
+    ],
+    "addons": [
+      "https://animestream-addon.keypop3750.workers.dev/sm=https|sk=subdl_2UBZXxejmmdfmlH4ZMyfDhpLDaSGCMIb3TelEAjjbM|tp=q_1080,a_dual,a_dub,a_sub,q_720,q_480,n_2/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.animestream.sky"
+  },
+  {
+    "packageName": "dev.cookie.bestcine",
+    "name": "BestCine 🇧🇷",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "Filmes e séries PT-BR em HD/4K com canais ao vivo.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Portuguese"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "addons": [
+      "https://bestcine.alwaysdata.net/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.bestcine.sky"
+  },
+  {
+    "packageName": "dev.cookie.cotonet",
+    "name": "Cotonet 🇵🇹",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "Filmes com dobragem em português de Portugal.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Portuguese"
+    ],
+    "categories": [
+      "Movies"
+    ],
+    "addons": [
+      "https://cotonetnet-cotonet.hf.space/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.cotonet.sky"
+  },
+  {
+    "packageName": "dev.cookie.desiflix",
+    "name": "DesiFlix",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "Indian serials, movies and web series via DesiTVHub.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Hindi",
+      "Telugu",
+      "Tamil",
+      "English"
+    ],
+    "categories": [
+      "Series",
+      "Movies"
+    ],
+    "addons": [
+      "https://manifest.desitvhub.eu.org/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.desiflix.sky"
+  },
+  {
+    "packageName": "dev.cookie.dramayo",
+    "name": "Dramayo 🇰🇷🇯🇵🇨🇳🇹🇭",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "Asian dramas and movies with direct stream links.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Korean",
+      "Japanese",
+      "Chinese",
+      "Thai",
+      "Filipino",
+      "English"
+    ],
+    "categories": [
+      "Series",
+      "Movies"
+    ],
+    "addons": [
+      "https://dramayo.stream/eyJpbnN0YWxsSWQiOiJkZDFmZWYwNi0xNTNjLTQwMTEtODQwNy03ZTNkMmM5NmU4MDciLCJlbmFibGVkQ2F0YWxvZ3MiOlsiZHJhbWF5by1kaXNjb3ZlciIsImRyYW1heW8tZGlzY292ZXItbW92aWVzIiwiZHJhbWF5by1rb3JlYW4iLCJkcmFtYXlvLWNoaW5lc2UiLCJkcmFtYXlvLWphcGFuZXNlIiwiZHJhbWF5by10aGFpIiwiZHJhbWF5by10YWl3YW5lc2UiLCJkcmFtYXlvLWZpbGlwaW5vIiwiZHJhbWF5by1ob25na29uZyIsImRyYW1heW8ta29yZWFuLW1vdmllcyIsImRyYW1heW8tY2hpbmVzZS1tb3ZpZXMiLCJkcmFtYXlvLWphcGFuZXNlLW1vdmllcyIsImRyYW1heW8tdGhhaS1tb3ZpZXMiLCJkcmFtYXlvLXRhaXdhbmVzZS1tb3ZpZXMiLCJkcmFtYXlvLWZpbGlwaW5vLW1vdmllcyIsImRyYW1heW8taG9uZ2tvbmctbW92aWVzIl0sImhpZGVBbmltZSI6ZmFsc2UsImhpZGVOc2Z3Ijp0cnVlfQ==/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.dramayo.sky"
+  },
+  {
+    "packageName": "dev.cookie.flixstreams",
+    "name": "Flix Streams Free",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "HDHub, HDHub4u, Dailymotion plus live TV and sports events.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "addons": [
+      "https://free.flixnest.app/eNqNUltuGzEMvIu-I2C9XiuGr1IEhCxxs6z1ikSt0xa9e7V-JI7rAv2SNEMOqSF_CcBSMDBpB45mBJzbq4B2Lh7BusIZtS8QkI8xH8SOc8UnAWNGhGIm9FrsRN_1qlN9L8_ZciTHmGWKZTnmtXgSn1JGM77GTFjE7tsnLkuKmSVjCFTkkfzeoY1Bmkn7RDGUiVKRSyW5NHoreUnVnGSh8OrwNv_I-gG6xNpY9ye0RVzvnt7Rfrz-UchkMgfkM_3y5W-TDgEdnA1YPviFpmBctQjaVsdiN2pXmpkYdKsGw2GyU91fLb6gVpP74SM3B-6Zq-wd_nCg_xNzM25LGQ3fJZ3aG-oH-kADTgadBnsxafGHQuG2UEC27cpIoN7USqnubc1D3STVbfzwrPZqGrbddrNdPfdp873ZfiPL5BHGmL1uTYlVP_1N_4wBG5dynMliBheNdi0sZfRU_blJnsGvK5RYs7nbP_Hy-w8AayGC/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.flixstreams.sky"
+  },
+  {
+    "packageName": "dev.cookie.greflix",
+    "name": "GreFlix 🇬🇷",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "Greek TV series, movies and cinema classics.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Greek"
+    ],
+    "categories": [
+      "Series",
+      "Movies"
+    ],
+    "addons": [
+      "https://7043eb19dc52-greflix.baby-beamup.club/addon/e30/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.greflix.sky"
+  },
+  {
     "packageName": "dev.cookie.hdhub",
     "name": "HdHub",
     "version": 1,
@@ -46,6 +223,30 @@
     "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.hdhub.sky"
   },
   {
+    "packageName": "dev.cookie.k20",
+    "name": "K20 Phim Tổng Hợp 🇻🇳",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "Phim Vietsub và thuyết minh, thể thao trực tiếp.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Vietnamese"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "addons": [
+      "https://sc.k-20.xyz/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.k20.sky"
+  },
+  {
     "packageName": "dev.cookie.kartoons",
     "name": "Kartoons",
     "version": 1,
@@ -68,6 +269,29 @@
       "https://api.kartoons.me/api/stremio/manifest.json?token=5olMIGqBtcWexTLuRPmfBjYPizLFr-ouJxf58LaRThg"
     ],
     "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.kartoons.sky"
+  },
+  {
+    "packageName": "dev.cookie.khmerdub",
+    "name": "KhmerDub 🇰🇭",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "Asian dramas dubbed in Khmer.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Khmer"
+    ],
+    "categories": [
+      "Series"
+    ],
+    "addons": [
+      "https://khmerhub.onrender.com/khmerdub/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.khmerdub.sky"
   },
   {
     "packageName": "dev.cookie.moviblast",
@@ -112,6 +336,107 @@
       "Series"
     ],
     "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.moviebox.sky"
+  },
+  {
+    "packageName": "dev.cookie.muvibox",
+    "name": "Muvibox",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "Movies, series and anime streams with subtitles.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English",
+      "Japanese",
+      "Korean",
+      "Thai",
+      "Chinese"
+    ],
+    "categories": [
+      "Series",
+      "Movies"
+    ],
+    "addons": [
+      "https://muvibox.dipo.web.id/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.muvibox.sky"
+  },
+  {
+    "packageName": "dev.cookie.nagare",
+    "name": "Nexio Nagare",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "English anime direct streams, no debrid needed.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "categories": [
+      "Anime",
+      "Series"
+    ],
+    "addons": [
+      "https://nagare.nexioapp.org/%7B%22NexioNagare%22%3A%22eyJ1c2VFbmdsaXNoVGl0bGVzIjp0cnVlLCJwcmVmZXJEdWIiOnRydWUsInByb3ZpZGVycyI6WyJvbmV0d290aHJlZWFuaW1lIiwiYW5pem9uZSIsImFuaW1lbm9zdWIiLCJhbmltZXBhaGUiLCJnb2pvIl0sInJlc29sdXRpb25zIjpbIjRLIiwiMTA4MHAiLCI3MjBwIiwiNDgwcCIsImF1dG8iXSwic2hvd1NlYXNvbmFsU2VyaWVzIjp0cnVlLCJzaG93QWlyaW5nU2VyaWVzIjp0cnVlLCJzaG93VHJlbmRpbmdTZXJpZXMiOnRydWUsInNob3dUb3BTZXJpZXMiOnRydWUsInNob3dUcmVuZGluZ01vdmllcyI6dHJ1ZSwic2hvd1RvcE1vdmllcyI6dHJ1ZSwic2hvd1NlYXJjaENhdGFsb2ciOnRydWV9%22%7D/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.nagare.sky"
+  },
+  {
+    "packageName": "dev.cookie.nebulasports",
+    "name": "Nebula Sports",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "Live sports streams in up to 4K, World Cup included.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Livestream",
+      "Sports"
+    ],
+    "addons": [
+      "https://free.nebulapro.xyz/sports/i/free/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.nebulasports.sky"
+  },
+  {
+    "packageName": "dev.cookie.novelaspt",
+    "name": "Filmes & Novelas PT 🇵🇹",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "Filmes, séries e novelas portuguesas.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Portuguese"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "addons": [
+      "https://filme-series-e-novelas-portuguesas.vercel.app/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.novelaspt.sky"
   },
   {
     "packageName": "dev.cookie.sandbox",
@@ -325,6 +650,30 @@
       "Movies"
     ],
     "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.sansekai.sky"
+  },
+  {
+    "packageName": "dev.cookie.sportsstreams",
+    "name": "Sports Streams",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "Live and upcoming sports: football, cricket, UFC, tennis and more.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Livestream",
+      "Sports"
+    ],
+    "addons": [
+      "https://sports.highfly.dev/eyJpbmNsdWRlU3BvcnRzIjpbImNyaWNrZXQiLCJvdGhlciIsImdvbGYiLCJydWdieSIsImZvb3RiYWxsIiwibW90b3Itc3BvcnRzIiwiYmFzZWJhbGwiLCJiYXNrZXRiYWxsIiwiYW1lcmljYW4tZm9vdGJhbGwiLCJmaWdodCIsImJpbGxpYXJkcyIsImFmbCIsImRhcnRzIiwidGVubmlzIiwiaG9ja2V5Il19/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.sportsstreams.sky"
   },
   {
     "packageName": "dev.cookie.stremiohub",
