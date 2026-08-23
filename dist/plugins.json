@@ -1,0 +1,548 @@
+[
+  {
+    "packageName": "dev.cookie.livestreamio",
+    "name": "Live Sports & Channels",
+    "version": 1,
+    "baseUrl": "https://aggregator.local",
+    "description": "Live sports and TV channels.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Livestream",
+      "Sports"
+    ],
+    "addons": [
+      "https://sports.highfly.dev/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.livestreamio.sky"
+  },
+  {
+    "packageName": "dev.cookie.nuviobridge",
+    "name": "NuvioBridge",
+    "version": 1,
+    "baseUrl": "https://skystream-local",
+    "description": "Scrapes 100+ streaming providers from Nuvio manifests.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "Malayalam",
+      "Japanese",
+      "Korean"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "nuvioManifests": [
+      "https://raw.githubusercontent.com/D3adlyRocket/All-in-One-Nuvio/refs/heads/main/manifest.json",
+      "https://raw.githubusercontent.com/hihihihihiiray/plugins/refs/heads/main/manifest.json",
+      "https://raw.githubusercontent.com/Eclipsia-Vault/eclipsia-nuvio/refs/heads/main/manifest.json",
+      "https://raw.githubusercontent.com/PirateZoro9/asura-providers/refs/heads/main/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.nuviobridge.sky"
+  },
+  {
+    "packageName": "dev.cookie.onlytorrents",
+    "name": "OnlyTorrents",
+    "version": 2,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "High-seeder torrent streams for smooth playback.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "catalogueAddons": [
+      "https://catalog.ers.pw/bmZ4LGRucCxhbXAsYXRwLGhibSxwY3AsaGx1LHBtcCxjcnUsamhzLHNvbnlsaXYsemVlOjpJTjoxNzgzMDU4OTYxMTY3OjA6MDo%3D/manifest.json"
+    ],
+    "metaAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "streamingAddons": [
+      "https://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,horriblesubs,nyaasi,tokyotosho,anidex,nekobt|sizefilter=10GB/manifest.json",
+      "https://filmora2.vercel.app/manifest.json",
+      "https://5a0d1888fa64-orion.baby-beamup.club/eyJhcGkiOiJWTEVMSDVCTkpSS1U4REJUSkdRODZVTjVNTkVMRkNGUyIsImxpbmtMaW1pdCI6IjEwIiwic29ydFZhbHVlIjoic3RyZWFtc2VlZHMiLCJhdWRpb2NoYW5uZWxzIjoiMSwyLDYsOCIsInZpZGVvcXVhbGl0eSI6ImhkNGssaGQyayxoZDEwODAsaGQ3MjAsc2QiLCJsaXN0T3B0IjoidG9ycmVudCIsImRlYnJpZHNlcnZpY2VzIjpbXSwiYXVkaW9sYW5ndWFnZXMiOltdLCJhZGRpdGlvbmFsUGFyYW1ldGVycyI6IiJ9/manifest.json",
+      "https://kod-three.vercel.app/eyJwcm92aWRlcnMiOlsieXRzIiwiZXp0diIsInRwYiIsInRneCIsIjEzMzd4IiwibnlhYSIsInNvbGlkdG9ycmVudHMiLCJydXRvciIsImtpY2thc3MiLCJtYWduZXRkbCIsImtuYWJlbiIsInRoZXJhcmJnIiwibGltZXRvcnJlbnRzIiwiYml0c2VhcmNoIiwiYnQ0ZyIsInRvcmxvY2siLCJ0b3JyZW50ZG93bmxvYWRzIiwiaWRvcGUiLCJ6b29xbGUiLCJ0b3JyZW50ejIiLCJ0b3JyZW50ZnVuayIsImJ0ZGlnIiwidG9ycmVudHNkYiIsInJ1dHJhY2tlciIsImFuaW1ldG9zaG8iLCJzdWJzcGxlYXNlIl0sInF1YWxpdHlGaWx0ZXIiOlsiNGsiLCIxMDgwcCIsIjcyMHAiLCI0ODBwIiwiMzYwcCJdLCJtaW5TZWVkZXJzIjo1MCwic29ydE9yZGVyIjoic2VlZGVycyJ9/manifest.json",
+      "https://torrentclaw.com/api/stremio/eyJsYW5nIjoiZW4iLCJzb3J0Ijoic2VlZGVycyIsIm1pblNlZWRlcnMiOjIwfQ/manifest.json",
+      "https://ce8c71dcef3b-filtorrent.baby-beamup.club/%7B%22sort%22%3A%5B%7B%22by%22%3A%22seeders%22%2C%22dir%22%3A%22desc%22%7D%2C%7B%22by%22%3A%22seeders%22%2C%22dir%22%3A%22desc%22%7D%2C%7B%22by%22%3A%22seeders%22%2C%22dir%22%3A%22desc%22%7D%5D%7D/manifest.json",
+      "https://cinnn.vercel.app/manifest.json",
+      "https://sup-nyp1.onrender.com/eyJwcm92aWRlcnMiOlsieXRzIiwiZXp0diIsInRwYiIsInRneCIsIjEzMzd4IiwibnlhYSIsInNvbGlkdG9ycmVudHMiLCJydXRvciIsImtpY2thc3MiLCJtYWduZXRkbCIsInRvcnJlbnRpbyIsImtuYWJlbiIsInRoZXJhcmJnIiwibGltZXRvcnJlbnRzIiwiYml0c2VhcmNoIiwiYnQ0ZyIsInRvcmxvY2siLCJ0b3JyZW50ZG93bmxvYWRzIiwiaWRvcGUiLCJ6b29xbGUiLCJ0b3JyZW50ejIiLCJ0b3JyZW50ZnVuayIsImJ0ZGlnIiwidG9ycmVudHNkYiIsInJ1dHJhY2tlciIsImFuaW1ldG9zaG8iLCJzdWJzcGxlYXNlIiwidG9ycmVudHNjc3YiXSwibWF4UXVhbGl0eSI6IjEwODBwIiwic2l6ZUZpbHRlciI6dHJ1ZSwibWF4U2l6ZUJ5dGVzIjoxMDczNzQxODI0MCwibWluU2l6ZUJ5dGVzIjowLCJtaW5TZWVkZXJzIjo1MCwic29ydE9yZGVyIjoic2VlZGVycyIsInByaW9yaXRpemUiOiJzaXplX2FzYyIsImRlZHVwZSI6dHJ1ZSwiZXhjbHVkZUNhbSI6dHJ1ZSwiYXVkaW9MYW5ndWFnZSI6InByZWZlcl9lbiIsIm1heFJlc3VsdHMiOjIwLCJjb2RlY3MiOltdfQ/manifest.json",
+      "https://watcho3.rafaelzioneverest.workers.dev/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.onlytorrents.sky"
+  },
+  {
+    "packageName": "dev.cookie.stremiohub",
+    "name": "Stremio Hub",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "All-in-one Stremio addons hub: catalogs, streams, subs and live TV.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Korean",
+      "Japanese"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "addons": [
+      "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/manifest.json",
+      "https://top-streaming.stream/b04d83ca-0ec4-46ae-9a84-a9d8744f18dd/manifest.json",
+      "https://61ab9c85a149-tmdb-collections.baby-beamup.club/manifest.json",
+      "https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/stable/manifest.json",
+      "https://hdhub.thevolecitor.qzz.io/eyJ0b3Jib3giOiJ1bnNldCIsInF1YWxpdGllcyI6IjIxNjBwLDEwODBwLDcyMHAsNDgwcCIsInNvcnQiOiJkZXNjIiwiY2F0YWxvZ3MiOiIifQ/manifest.json",
+      "https://pengu.uk/zbdA9b8IwEAbg_-KZIQ6BJGwdkBCMZWKJLvElNk5s118lVP3vVQfUxjC-j8939n0Rp4PtsCkkZzy0ZEe0IquHdkJhbxFk4qDEJ0R0CU86Cmz1LWUZW3D4qtgxK577RDAjzGhTFgzBzYneb53zFmF6fuOELgzpXEDPX7UehUq_GQXrwflEORs4WB8Tzg12ckynUUqLsnygRdfkdJv9zzSrFrnMF7FYnq7_LkPwvPFaoiI7AtXBe6hhvy7hXO3frpf6Ur9n_ckbN2zqbnO8G3M9nnJZkBUZrA6maX9X-RFgFH4m3z8/manifest.json",
+      "https://87d6a6ef6b58-webstreamrmbg.baby-beamup.club/%7B%22multi%22%3A%22on%22%7D/manifest.json",
+      "https://opensubtitlesv3-pro.dexter21767.com/eyJsYW5ncyI6WyJlbmdsaXNoIl0sInNvdXJjZSI6InRydXN0ZWQiLCJhaVRyYW5zbGF0ZWQiOnRydWUsImF1dG9BZGp1c3RtZW50Ijp0cnVlfQ==/manifest.json",
+      "https://subsense.nepiraw.com/09555lgz-%7B%22languages%22%3A%5B%22en%22%5D%2C%22maxSubtitles%22%3A10%2C%22keepAss%22%3Atrue%7D/manifest.json",
+      "https://2ecbbd610840-opensubtitles.baby-beamup.club/hindi/manifest.json",
+      "https://dramayo.stream/eyJpbnN0YWxsSWQiOiJkZDFmZWYwNi0xNTNjLTQwMTEtODQwNy03ZTNkMmM5NmU4MDciLCJlbmFibGVkQ2F0YWxvZ3MiOlsiZHJhbWF5by1kaXNjb3ZlciIsImRyYW1heW8tZGlzY292ZXItbW92aWVzIiwiZHJhbWF5by1rb3JlYW4iLCJkcmFtYXlvLWNoaW5lc2UiLCJkcmFtYXlvLWphcGFuZXNlIiwiZHJhbWF5by10aGFpIiwiZHJhbWF5by10YWl3YW5lc2UiLCJkcmFtYXlvLWZpbGlwaW5vIiwiZHJhbWF5by1ob25na29uZyIsImRyYW1heW8ta29yZWFuLW1vdmllcyIsImRyYW1heW8tY2hpbmVzZS1tb3ZpZXMiLCJkcmFtYXlvLWphcGFuZXNlLW1vdmllcyIsImRyYW1heW8tdGhhaS1tb3ZpZXMiLCJkcmFtYXlvLXRhaXdhbmVzZS1tb3ZpZXMiLCJkcmFtYXlvLWZpbGlwaW5vLW1vdmllcyIsImRyYW1heW8taG9uZ2tvbmctbW92aWVzIl0sImhpZGVBbmltZSI6dHJ1ZSwiaGlkZU5zZnciOnRydWV9/manifest.json",
+      "https://animestream-addon.keypop3750.workers.dev/sm=https|sk=subdl_2UBZXxejmmdfmlH4ZMyfDhpLDaSGCMIb3TelEAjjbM|tp=q_1080,a_dual,a_dub,a_sub,q_720,q_480,n_2/manifest.json",
+      "https://manifest.desitvhub.eu.org/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.stremiohub.sky"
+  },
+  {
+    "packageName": "dev.cookie.animedekho",
+    "name": "AnimeDekho",
+    "version": 1,
+    "baseUrl": "https://animedekho.app",
+    "description": "Anime in Hindi, Tamil and Telugu dubs from animedekho.app.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Hindi",
+      "English",
+      "Tamil",
+      "Telugu"
+    ],
+    "categories": [
+      "Anime",
+      "Series"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.animedekho.sky"
+  },
+  {
+    "packageName": "dev.cookie.desiflix",
+    "name": "DesiFlix",
+    "version": 1,
+    "baseUrl": "https://stremio-hub.local",
+    "description": "Indian serials and web series via DesiTVHub.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Hindi",
+      "Telugu",
+      "Tamil",
+      "English"
+    ],
+    "categories": [
+      "Series",
+      "Movies"
+    ],
+    "addons": [
+      "https://manifest.desitvhub.eu.org/manifest.json"
+    ],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.desiflix.sky"
+  },
+  {
+    "packageName": "dev.cookie.kartoons",
+    "name": "Kartoons",
+    "version": 1,
+    "baseUrl": "https://hmm.local",
+    "description": "Cartoons and anime in Indian languages.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ],
+    "categories": [
+      "Cartoon",
+      "Anime"
+    ],
+    "addons": [
+      "https://api.kartoons.me/api/stremio/manifest.json?token=5olMIGqBtcWexTLuRPmfBjYPizLFr-ouJxf58LaRThg"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.kartoons.sky"
+  },
+  {
+    "packageName": "dev.cookie.moneyparot",
+    "name": "MoneyParot",
+    "version": 1,
+    "baseUrl": "https://moneyparot.com",
+    "description": "Hindi dubbed movies from moneyparot.com.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.moneyparot.sky"
+  },
+  {
+    "packageName": "dev.cookie.moviblast",
+    "name": "MovieBlast",
+    "version": 1,
+    "baseUrl": "https://app.cloud-mb.xyz",
+    "description": "Telugu movies and series with direct stream links.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Telugu",
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movieblast.png",
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.moviblast.sky"
+  },
+  {
+    "packageName": "dev.cookie.moviebox",
+    "name": "MovieBox",
+    "version": 1,
+    "baseUrl": "https://h5-api.aoneroom.com",
+    "description": "Multi-language movies, series and anime from MovieBox.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "Malayalam",
+      "Kannada",
+      "Bengali"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.moviebox.sky"
+  },
+  {
+    "packageName": "com.skystream.plugins.movieswood",
+    "name": "MoviesWood",
+    "version": 1,
+    "baseUrl": "https://movieswood.cloud/telly",
+    "description": "Telugu movies & shows from movieswood.cloud/telly",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "te",
+      "en"
+    ],
+    "categories": [
+      "Movies",
+      "TvSeries"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/com.skystream.plugins.movieswood.sky"
+  },
+  {
+    "packageName": "dev.cookie.muvibox",
+    "name": "Muvibox",
+    "version": 1,
+    "baseUrl": "https://wtf.local",
+    "description": "Asian dramas, movies and series.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Japanese",
+      "Korean",
+      "Thai",
+      "Chinese",
+      "English"
+    ],
+    "categories": [
+      "Series",
+      "Movies"
+    ],
+    "subs": true,
+    "subtitleAddons": [
+      "https://opensubtitlesv3-pro.dexter21767.com/eyJsYW5ncyI6WyJlbmdsaXNoIl0sInNvdXJjZSI6ImFsbCIsImFpVHJhbnNsYXRlZCI6dHJ1ZSwiYXV0b0FkanVzdG1lbnQiOnRydWV9/manifest.json",
+      "https://subsense.nepiraw.com/g415n2v3-%7B%22languages%22%3A%5B%22en%22%5D%2C%22maxSubtitles%22%3A10%2C%22keepAss%22%3Atrue%7D/manifest.json",
+      "https://2ecbbd610840-opensubtitles.baby-beamup.club/english/manifest.json",
+      "https://wyzie-ar.vercel.app/manifest.json"
+    ],
+    "addons": [
+      "https://5bbd901bbace-muvibox.baby-beamup.club/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.muvibox.sky"
+  },
+  {
+    "packageName": "dev.cookie.sandbox",
+    "name": "SandBox🏜️",
+    "version": 1,
+    "baseUrl": "nuviocopy.com",
+    "description": "TMDB-powered catalog sandbox.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Telugu"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.sandbox.sky"
+  },
+  {
+    "packageName": "dev.cookie.reelfren",
+    "name": "ReelFren",
+    "version": 1,
+    "baseUrl": "https://api.dramafren.org",
+    "providers": [
+      {
+        "id": "wetv",
+        "name": "WeTV"
+      },
+      {
+        "id": "vibeshort",
+        "name": "VibeShort"
+      },
+      {
+        "id": "storyreel",
+        "name": "StoryReel"
+      },
+      {
+        "id": "minitv",
+        "name": "MiniTV"
+      },
+      {
+        "id": "moviebox",
+        "name": "MovieBox"
+      },
+      {
+        "id": "shorten",
+        "name": "Shorten"
+      },
+      {
+        "id": "sereal",
+        "name": "Sereal"
+      },
+      {
+        "id": "kalostv",
+        "name": "KaloTV"
+      },
+      {
+        "id": "cubetv",
+        "name": "CubeTV"
+      },
+      {
+        "id": "joyreels",
+        "name": "JoyReels"
+      },
+      {
+        "id": "movieboxshorts",
+        "name": "MovieBox Shorts"
+      },
+      {
+        "id": "golddrama",
+        "name": "GoldDrama"
+      },
+      {
+        "id": "anyreel",
+        "name": "AnyReel"
+      },
+      {
+        "id": "dramanova",
+        "name": "DramaNova"
+      },
+      {
+        "id": "happyshort",
+        "name": "HappyShort"
+      },
+      {
+        "id": "melolo",
+        "name": "Melolo"
+      },
+      {
+        "id": "reelife",
+        "name": "Reelife"
+      },
+      {
+        "id": "pinedrama",
+        "name": "PineDrama"
+      },
+      {
+        "id": "bstation",
+        "name": "BStation"
+      },
+      {
+        "id": "raptdrama",
+        "name": "RaptDrama"
+      },
+      {
+        "id": "freereels",
+        "name": "FreeReels"
+      },
+      {
+        "id": "vigloo",
+        "name": "Vigloo"
+      }
+    ],
+    "description": "Short dramas from multiple providers via the ReelFren API.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Spanish",
+      "Portuguese",
+      "Arabic",
+      "Vietnamese",
+      "Thai",
+      "Korean",
+      "Japanese",
+      "Indonesian",
+      "Filipino",
+      "Chinese",
+      "Malay",
+      "French",
+      "German"
+    ],
+    "categories": [
+      "Series",
+      "Movies"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.reelfren.sky"
+  },
+  {
+    "packageName": "dev.cookie.sansekai",
+    "name": "Sansekai",
+    "version": 1,
+    "baseUrl": "https://api.sansekai.my.id/api",
+    "providers": [
+      {
+        "id": "melolo",
+        "name": "Melolo"
+      },
+      {
+        "id": "dramabox",
+        "name": "DramaBox"
+      },
+      {
+        "id": "goodshort",
+        "name": "GoodShort"
+      },
+      {
+        "id": "pinedrama",
+        "name": "PineDrama"
+      },
+      {
+        "id": "netshort",
+        "name": "NetShort"
+      },
+      {
+        "id": "dramanova",
+        "name": "DramaNova"
+      },
+      {
+        "id": "reelshort",
+        "name": "ReelShort"
+      },
+      {
+        "id": "shortmax",
+        "name": "ShortMax"
+      },
+      {
+        "id": "freereels",
+        "name": "FreeReels"
+      }
+    ],
+    "description": "Short dramas from 9 providers.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Spanish",
+      "Portuguese",
+      "Arabic",
+      "Vietnamese",
+      "Thai",
+      "Korean",
+      "Japanese",
+      "Indonesian",
+      "Filipino",
+      "Chinese",
+      "Malay",
+      "French",
+      "German"
+    ],
+    "categories": [
+      "Series",
+      "Movies"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.sansekai.sky"
+  },
+  {
+    "packageName": "dev.cookie.teluguscreen",
+    "name": "TeluguScreen",
+    "version": 1,
+    "baseUrl": "https://teluguscreen.com",
+    "description": "Telugu movies with direct MP4 links from teluguscreen.com.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "Telugu",
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.teluguscreen.sky"
+  }
+]
