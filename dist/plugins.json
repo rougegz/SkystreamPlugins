@@ -18,7 +18,7 @@
       "Anime",
       "Series"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.animedekho.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.animedekho.sky"
   },
   {
     "packageName": "dev.cookie.animestream",
@@ -87,7 +87,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.animestream.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.animestream.sky"
   },
   {
     "packageName": "dev.cookie.bestcine",
@@ -155,7 +155,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.bestcine.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.bestcine.sky"
   },
   {
     "packageName": "dev.cookie.cotonet",
@@ -222,7 +222,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.cotonet.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.cotonet.sky"
   },
   {
     "packageName": "dev.cookie.desiflix",
@@ -293,7 +293,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.desiflix.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.desiflix.sky"
   },
   {
     "packageName": "dev.cookie.dramayo",
@@ -366,7 +366,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.dramayo.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.dramayo.sky"
   },
   {
     "packageName": "dev.cookie.flixstreams",
@@ -435,7 +435,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.flixstreams.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.flixstreams.sky"
   },
   {
     "packageName": "dev.cookie.greflix",
@@ -503,7 +503,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.greflix.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.greflix.sky"
   },
   {
     "packageName": "dev.cookie.hdhub",
@@ -572,7 +572,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.hdhub.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.hdhub.sky"
   },
   {
     "packageName": "dev.cookie.k20",
@@ -640,7 +640,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.k20.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.k20.sky"
   },
   {
     "packageName": "dev.cookie.kartoons",
@@ -711,7 +711,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.kartoons.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.kartoons.sky"
   },
   {
     "packageName": "dev.cookie.khmerdub",
@@ -778,7 +778,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.khmerdub.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.khmerdub.sky"
   },
   {
     "packageName": "dev.cookie.moviblast",
@@ -798,7 +798,7 @@
       "Series"
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movieblast.png",
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.moviblast.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.moviblast.sky"
   },
   {
     "packageName": "dev.cookie.moviebox",
@@ -822,7 +822,7 @@
       "Movies",
       "Series"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.moviebox.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.moviebox.sky"
   },
   {
     "packageName": "dev.cookie.muvibox",
@@ -894,7 +894,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.muvibox.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.muvibox.sky"
   },
   {
     "packageName": "dev.cookie.nagare",
@@ -963,7 +963,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.nagare.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.nagare.sky"
   },
   {
     "packageName": "dev.cookie.nebulasports",
@@ -1031,7 +1031,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.nebulasports.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.nebulasports.sky"
   },
   {
     "packageName": "dev.cookie.novelaspt",
@@ -1099,7 +1099,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.novelaspt.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.novelaspt.sky"
   },
   {
     "packageName": "dev.cookie.sandbox",
@@ -1120,7 +1120,7 @@
       "Movies",
       "Series"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.sandbox.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.sandbox.sky"
   },
   {
     "packageName": "dev.cookie.reelfren",
@@ -1242,7 +1242,7 @@
       "Series",
       "Movies"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.reelfren.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.reelfren.sky"
   },
   {
     "packageName": "dev.cookie.sansekai",
@@ -1312,7 +1312,7 @@
       "Series",
       "Movies"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.sansekai.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.sansekai.sky"
   },
   {
     "packageName": "dev.cookie.sportsstreams",
@@ -1380,7 +1380,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.sportsstreams.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.sportsstreams.sky"
   },
   {
     "packageName": "dev.cookie.stremiohub",
@@ -1474,6 +1474,6 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/pluginsforsky/main/dist/dev.cookie.stremiohub.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.stremiohub.sky"
   }
 ]
