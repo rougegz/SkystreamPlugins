@@ -225,6 +225,25 @@
     "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.cotonet.sky"
   },
   {
+    "packageName": "dev.cookie.dailymotion",
+    "name": "Dailymotion",
+    "version": 1,
+    "baseUrl": "https://www.dailymotion.com",
+    "description": "Dailymotion videos: trending, channels, search and up-next from the same channel.",
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English",
+      "Multilingual"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.dailymotion.sky"
+  },
+  {
     "packageName": "dev.cookie.desiflix",
     "name": "DesiFlix",
     "version": 1,
