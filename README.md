@@ -6,7 +6,7 @@ files and publishes them to the public artifacts repo:
 
 - Artifacts repo: `thegnsme/skyplugins` → branch `main`
 - Install link for users:
-  `https://raw.githubusercontent.com/thegnsme/skyplugins/main/repo.json`
+  `https://raw.githubusercontent.com/rougegz/skystreamplugins/main/repo.json`
 
 ## Plugins
 
