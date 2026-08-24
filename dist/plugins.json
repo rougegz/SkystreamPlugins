@@ -724,7 +724,7 @@
     "name": "kartoons",
     "version": 1,
     "baseUrl": "https://stremio-hub.local",
-    "description": "Indian serials, movies and web series via DesiTVHub.",
+    "description": "Watch hundreds of cartoons and anime shows for free online in Hindi and English.",
     "authors": [
       "Cookie🍪"
     ],
@@ -735,8 +735,8 @@
       "English"
     ],
     "categories": [
-      "Series",
-      "Movies"
+      "Anime",
+      "Cartoon"
     ],
     "settings": [
       {
