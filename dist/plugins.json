@@ -1089,27 +1089,6 @@
     "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.novelaspt.sky"
   },
   {
-    "packageName": "dev.cookie.sandbox",
-    "name": "SandBox🏜️",
-    "version": 1,
-    "baseUrl": "nuviocopy.com",
-    "description": "TMDB-powered catalog sandbox.",
-    "authors": [
-      "Cookie🍪"
-    ],
-    "languages": [
-      "English",
-      "Hindi",
-      "Tamil",
-      "Telugu"
-    ],
-    "categories": [
-      "Movies",
-      "Series"
-    ],
-    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.sandbox.sky"
-  },
-  {
     "packageName": "dev.cookie.reelfren",
     "name": "ReelFren",
     "version": 1,
