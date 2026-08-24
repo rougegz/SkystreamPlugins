@@ -906,7 +906,7 @@
   },
   {
     "packageName": "dev.cookie.nagare",
-    "name": "Anime-Nexio",
+    "name": "Nexio Nagare",
     "version": 1,
     "baseUrl": "https://stremio-hub.local",
     "description": "English anime direct streams, no debrid needed.",
