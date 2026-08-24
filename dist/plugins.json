@@ -92,7 +92,7 @@
   {
     "packageName": "dev.cookie.archive",
     "name": "Archive Vault",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Public domain anime, films and classic TV from archive.org.",
     "authors": [
@@ -1462,7 +1462,7 @@
   {
     "packageName": "dev.cookie.stremiohub",
     "name": "Stremio Hub",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Every catalog, stream and subtitle addon in one hub.",
     "authors": [
