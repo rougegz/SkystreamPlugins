@@ -146,7 +146,7 @@
     "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.bestcine.sky"
   },
   {
-    "packageName": "dev.cookie.bidooo",
+    "packageName": "dev.cookie.cartoonazizi",
     "name": "Arabic Cartoon Aziz🇸🇦 ",
     "version": 1,
     "baseUrl": "https://stremio-hub.local",
@@ -187,7 +187,7 @@
     "metadataAddons": [
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
-    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.bidooo.sky"
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.cartoonazizi.sky"
   },
   {
     "packageName": "dev.cookie.cotonet",
