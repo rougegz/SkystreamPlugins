@@ -1,5 +1,125 @@
 [
   {
+    "packageName": "dev.cookie.vega.1cinevood",
+    "name": "Cinewood",
+    "version": 1,
+    "baseUrl": "https://cinevood.cl",
+    "description": "Cinewood via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "1cinevood",
+        "moduleDir": "1cinevood",
+        "name": "cinewood",
+        "baseUrl": "https://cinevood.cl"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.1cinevood.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.4khdhub",
+    "name": "4khdHub",
+    "version": 1,
+    "baseUrl": "https://4khdhub.one",
+    "description": "4khdHub via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "4khdhub",
+        "moduleDir": "4khdhub",
+        "name": "4khdhub",
+        "baseUrl": "https://4khdhub.one"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.4khdhub.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.anikoto",
+    "name": "Anikoto",
+    "version": 1,
+    "baseUrl": "https://anikototv.to",
+    "description": "Anikoto via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "anikoto",
+        "moduleDir": "anikoto",
+        "name": "anikoto",
+        "baseUrl": "https://anikototv.to"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.anikoto.sky"
+  },
+  {
     "packageName": "dev.cookie.bidooo",
     "name": "bidooo 🇸🇦 ",
     "version": 1,
@@ -190,6 +310,86 @@
     "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.cartoonazizi.sky"
   },
   {
+    "packageName": "dev.cookie.vega.cinefreak",
+    "name": "CineFreak",
+    "version": 1,
+    "baseUrl": "https://cinefreak.net",
+    "description": "CineFreak via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "cinefreak",
+        "moduleDir": "cinefreak",
+        "name": "CineFreak",
+        "baseUrl": "https://cinefreak.net"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.cinefreak.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.cinemaluxe",
+    "name": "CinemaLuxe",
+    "version": 1,
+    "baseUrl": "https://cinemalux.cyou",
+    "description": "CinemaLuxe via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "cinemaLuxe",
+        "moduleDir": "cinemaLuxe",
+        "name": "cinemaLuxe",
+        "baseUrl": "https://cinemalux.cyou"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.cinemaluxe.sky"
+  },
+  {
     "packageName": "dev.cookie.cotonet",
     "name": "Cotonet 🇵🇹",
     "version": 1,
@@ -348,6 +548,126 @@
     "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.dramayo.sky"
   },
   {
+    "packageName": "dev.cookie.vega.drive",
+    "name": "MoviesDrive",
+    "version": 1,
+    "baseUrl": "https://new3.moviesdrive.christmas/",
+    "description": "MoviesDrive via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "drive",
+        "moduleDir": "drive",
+        "name": "moviesDrive",
+        "baseUrl": "https://new3.moviesdrive.christmas/"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.drive.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.eonmovies",
+    "name": "EonMovies",
+    "version": 1,
+    "baseUrl": "https://new4.eonmovies.click",
+    "description": "EonMovies via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "eonMovies",
+        "moduleDir": "eonMovies",
+        "name": "EonMovies",
+        "baseUrl": "https://new4.eonmovies.click"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.eonmovies.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.filmyfly",
+    "name": "FilmyFly",
+    "version": 1,
+    "baseUrl": "https://filmyfiy.co.in",
+    "description": "FilmyFly via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "filmyfly",
+        "moduleDir": "filmyfly",
+        "name": "flimyfly",
+        "baseUrl": "https://filmyfiy.co.in"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.filmyfly.sky"
+  },
+  {
     "packageName": "dev.cookie.flixstreams",
     "name": "Flix Streams Free",
     "version": 1,
@@ -391,6 +711,46 @@
       "https://v3-cinemeta.strem.io/manifest.json"
     ],
     "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.flixstreams.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.gokuhd",
+    "name": "GokuHD",
+    "version": 1,
+    "baseUrl": "https://gokuhd.com",
+    "description": "GokuHD via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "gokuHD",
+        "moduleDir": "gokuHD",
+        "name": "GokuHD",
+        "baseUrl": "https://gokuhd.com"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.gokuhd.sky"
   },
   {
     "packageName": "dev.cookie.greflix",
@@ -517,6 +877,86 @@
     "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.hdhub.sky"
   },
   {
+    "packageName": "dev.cookie.vega.hdhub4u",
+    "name": "HdHub4u",
+    "version": 1,
+    "baseUrl": "https://new1.hdhub4u.af",
+    "description": "HdHub4u via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "hdhub4u",
+        "moduleDir": "hdhub4u",
+        "name": "hdhub4u",
+        "baseUrl": "https://new1.hdhub4u.af"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.hdhub4u.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.joya9tv",
+    "name": "Joya9tv",
+    "version": 1,
+    "baseUrl": "https://joya9tv1.com",
+    "description": "Joya9tv via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "Joya9tv",
+        "moduleDir": "Joya9tv",
+        "name": "joya9tv1",
+        "baseUrl": "https://joya9tv1.com"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.joya9tv.sky"
+  },
+  {
     "packageName": "dev.cookie.k20",
     "name": "K20 Phim Tổng Hợp 🇻🇳",
     "version": 1,
@@ -608,6 +1048,46 @@
     "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.kartoons.sky"
   },
   {
+    "packageName": "dev.cookie.vega.katmoviefix",
+    "name": "KatMovieFix",
+    "version": 1,
+    "baseUrl": "https://katmoviefix.study",
+    "description": "KatMovieFix via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "katMovieFix",
+        "moduleDir": "katMovieFix",
+        "name": "katmoviefix",
+        "baseUrl": "https://katmoviefix.study"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.katmoviefix.sky"
+  },
+  {
     "packageName": "dev.cookie.khmerdub",
     "name": "KhmerDub 🇰🇭",
     "version": 1,
@@ -651,6 +1131,206 @@
     "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.khmerdub.sky"
   },
   {
+    "packageName": "dev.cookie.vega.kickassanime",
+    "name": "KickAssAnime",
+    "version": 1,
+    "baseUrl": "https://kaa.lt",
+    "description": "KickAssAnime via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "kickAssAnime",
+        "moduleDir": "kickAssAnime",
+        "name": "kickAssAnime",
+        "baseUrl": "https://kaa.lt"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.kickassanime.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.kisskh",
+    "name": "KissKh",
+    "version": 1,
+    "baseUrl": "https://kisskh.is",
+    "description": "KissKh via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "kissKh",
+        "moduleDir": "kissKh",
+        "name": "kissKh",
+        "baseUrl": "https://kisskh.is"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.kisskh.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.kmmovies",
+    "name": "KmMovies",
+    "version": 1,
+    "baseUrl": "https://kmmovies.online",
+    "description": "KmMovies via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "kmMovies",
+        "moduleDir": "kmMovies",
+        "name": "kmmovies",
+        "baseUrl": "https://kmmovies.online"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.kmmovies.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.luxmovies",
+    "name": "RogMovies",
+    "version": 1,
+    "baseUrl": "https://new2.rogmovies.click",
+    "description": "RogMovies via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "luxMovies",
+        "moduleDir": "luxMovies",
+        "name": "luxmovies",
+        "baseUrl": "https://new2.rogmovies.click"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.luxmovies.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.mkvdrama",
+    "name": "MKVDrama",
+    "version": 1,
+    "baseUrl": "https://mkvdrama.net",
+    "description": "MKVDrama via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "mkvDrama",
+        "moduleDir": "mkvDrama",
+        "name": "MKVDrama",
+        "baseUrl": "https://mkvdrama.net"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.mkvdrama.sky"
+  },
+  {
     "packageName": "dev.cookie.moviblast",
     "name": "MovieBlast",
     "version": 1,
@@ -669,6 +1349,206 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movieblast.png",
     "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.moviblast.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.movieboxweb",
+    "name": "MovieBox Web",
+    "version": 1,
+    "baseUrl": "https://themoviebox.org",
+    "description": "MovieBox Web via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "movieBoxWeb",
+        "moduleDir": "movieBoxWeb",
+        "name": "MovieBox Web",
+        "baseUrl": "https://themoviebox.org"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.movieboxweb.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.movies4u",
+    "name": "Movies4U",
+    "version": 1,
+    "baseUrl": "https://movies4u.ag",
+    "description": "Movies4U via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "movies4u",
+        "moduleDir": "movies4u",
+        "name": "movies4u",
+        "baseUrl": "https://movies4u.ag"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.movies4u.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.moviesapi",
+    "name": "MoviesApi",
+    "version": 1,
+    "baseUrl": "https://vidspark.to",
+    "description": "MoviesApi via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "moviesApi",
+        "moduleDir": "moviesApi",
+        "name": "moviesapi",
+        "baseUrl": "https://vidspark.to"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.moviesapi.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.moviezwap",
+    "name": "MoviezWap",
+    "version": 1,
+    "baseUrl": "https://www.moviezwap.taxi/",
+    "description": "MoviezWap via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "moviezwap",
+        "moduleDir": "moviezwap",
+        "name": "moviezwap",
+        "baseUrl": "https://www.moviezwap.taxi/"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.moviezwap.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.multi",
+    "name": "MultiMovies",
+    "version": 1,
+    "baseUrl": "https://multimovies.fyi",
+    "description": "MultiMovies via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "multi",
+        "moduleDir": "multi",
+        "name": "multimovies",
+        "baseUrl": "https://multimovies.fyi"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.multi.sky"
   },
   {
     "packageName": "dev.cookie.muvibox",
@@ -852,6 +1732,86 @@
     "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.novelaspt.sky"
   },
   {
+    "packageName": "dev.cookie.vega.primewire",
+    "name": "Primewire",
+    "version": 1,
+    "baseUrl": "https://primewire.pw",
+    "description": "Primewire via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "primewire",
+        "moduleDir": "primewire",
+        "name": "primewire",
+        "baseUrl": "https://primewire.pw"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.primewire.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.protonmovies",
+    "name": "ProtonMovies",
+    "version": 1,
+    "baseUrl": "https://m.protonmovies.space",
+    "description": "ProtonMovies via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "protonMovies",
+        "moduleDir": "protonMovies",
+        "name": "protonMovies",
+        "baseUrl": "https://m.protonmovies.space"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.protonmovies.sky"
+  },
+  {
     "packageName": "dev.cookie.reelfren",
     "name": "ReelFren",
     "version": 1,
@@ -974,6 +1934,46 @@
     "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.reelfren.sky"
   },
   {
+    "packageName": "dev.cookie.vega.ridomovies",
+    "name": "RidoMovies",
+    "version": 1,
+    "baseUrl": "https://ridomovies.tv",
+    "description": "RidoMovies via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "ridoMovies",
+        "moduleDir": "ridoMovies",
+        "name": "ridomovies",
+        "baseUrl": "https://ridomovies.tv"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.ridomovies.sky"
+  },
+  {
     "packageName": "dev.cookie.sansekai",
     "name": "Sansekai",
     "version": 1,
@@ -1042,6 +2042,46 @@
       "Movies"
     ],
     "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.sansekai.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.showbox",
+    "name": "ShowBox",
+    "version": 1,
+    "baseUrl": "https://www.showbox.media",
+    "description": "ShowBox via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "showbox",
+        "moduleDir": "showbox",
+        "name": "showbox",
+        "baseUrl": "https://www.showbox.media"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.showbox.sky"
   },
   {
     "packageName": "dev.cookie.sportsstreams",
@@ -1141,6 +2181,126 @@
     "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.stremiohub.sky"
   },
   {
+    "packageName": "dev.cookie.vega.tokyoinsider",
+    "name": "TokyoInsider",
+    "version": 1,
+    "baseUrl": "https://www.tokyoinsider.com",
+    "description": "TokyoInsider via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "tokyoInsider",
+        "moduleDir": "tokyoInsider",
+        "name": "tokyoinsider",
+        "baseUrl": "https://www.tokyoinsider.com"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.tokyoinsider.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.topmovies",
+    "name": "TopMovies",
+    "version": 1,
+    "baseUrl": "https://moviesleech.art",
+    "description": "TopMovies via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "topmovies",
+        "moduleDir": "topmovies",
+        "name": "Topmovies",
+        "baseUrl": "https://moviesleech.art"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.topmovies.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.vega",
+    "name": "VMovies",
+    "version": 1,
+    "baseUrl": "https://new2.vegamovies.futbol",
+    "description": "VMovies via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "vega",
+        "moduleDir": "vega",
+        "name": "vegamovies",
+        "baseUrl": "https://new2.vegamovies.futbol"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.vega.sky"
+  },
+  {
     "packageName": "dev.cookie.yastream",
     "name": "Yastream 🇰🇷🇯🇵🇨🇳🇹🇭",
     "version": 1,
@@ -1188,5 +2348,45 @@
       }
     ],
     "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.yastream.sky"
+  },
+  {
+    "packageName": "dev.cookie.vega.zeefliz",
+    "name": "Zeefliz",
+    "version": 1,
+    "baseUrl": "https://zeefliz.beer",
+    "description": "Zeefliz via vega-providers (live modules)",
+    "providers": [
+      {
+        "id": "zeefliz",
+        "moduleDir": "zeefliz",
+        "name": "zeefliz",
+        "baseUrl": "https://zeefliz.beer"
+      }
+    ],
+    "authors": [
+      "Cookie🍪"
+    ],
+    "languages": [
+      "English"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "settings": [
+      {
+        "key": "external_subs",
+        "title": "Enable External Subs",
+        "description": "Provider subtitles passthrough",
+        "type": "toggle",
+        "defaultValue": "true",
+        "reloadOnChange": true
+      }
+    ],
+    "addons": [],
+    "metadataAddons": [
+      "https://v3-cinemeta.strem.io/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/rougegz/SkystreamPlugins/main/dist/dev.cookie.vega.zeefliz.sky"
   }
 ]
