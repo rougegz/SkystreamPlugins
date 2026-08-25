@@ -2,7 +2,7 @@
   {
     "packageName": "dev.cookie.bidooo",
     "name": "bidooo 🇸🇦 ",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Arabic dubbed animation and live-action films/series from Bidooo Index .",
     "authors": [
@@ -104,7 +104,7 @@
   {
     "packageName": "dev.cookie.bestcine",
     "name": "BestCine 🇧🇷",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Filmes e séries PT-BR em HD/4K com canais ao vivo.",
     "authors": [
@@ -148,7 +148,7 @@
   {
     "packageName": "dev.cookie.cartoonazizi",
     "name": "Arabic Cartoon Aziz🇸🇦 ",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Arabic cartoons. Provides streaming links for cartoon episodes.",
     "authors": [
@@ -192,7 +192,7 @@
   {
     "packageName": "dev.cookie.cotonet",
     "name": "Cotonet 🇵🇹",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Filmes com dobragem em português de Portugal.",
     "authors": [
@@ -254,7 +254,7 @@
   {
     "packageName": "dev.cookie.desiflix",
     "name": "DesiFlix",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Indian serials, movies and web series via DesiTVHub.",
     "authors": [
@@ -301,7 +301,7 @@
   {
     "packageName": "dev.cookie.dramayo",
     "name": "Dramayo 🇰🇷🇯🇵🇨🇳🇹🇭",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Asian dramas and movies with direct stream links.",
     "authors": [
@@ -350,7 +350,7 @@
   {
     "packageName": "dev.cookie.flixstreams",
     "name": "Flix Streams Free",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "HDHub, HDHub4u, Dailymotion plus live TV and sports events.",
     "authors": [
@@ -395,7 +395,7 @@
   {
     "packageName": "dev.cookie.greflix",
     "name": "GreFlix 🇬🇷",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Greek TV series, movies and cinema classics.",
     "authors": [
@@ -439,7 +439,7 @@
   {
     "packageName": "dev.cookie.hdhub",
     "name": "HdHub",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Torrent streams in up to 4K from HdHub.",
     "authors": [
@@ -484,7 +484,7 @@
   {
     "packageName": "dev.cookie.k20",
     "name": "K20 Phim Tổng Hợp 🇻🇳",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Phim Vietsub và thuyết minh, thể thao trực tiếp.",
     "authors": [
@@ -528,7 +528,7 @@
   {
     "packageName": "dev.cookie.kartoons",
     "name": "kartoons",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Watch hundreds of cartoons and anime shows for free online in Hindi and English.",
     "authors": [
@@ -575,7 +575,7 @@
   {
     "packageName": "dev.cookie.khmerdub",
     "name": "KhmerDub 🇰🇭",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Asian dramas dubbed in Khmer.",
     "authors": [
@@ -638,7 +638,7 @@
   {
     "packageName": "dev.cookie.muvibox",
     "name": "Muvibox",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Movies, series and anime streams with subtitles.",
     "authors": [
@@ -686,7 +686,7 @@
   {
     "packageName": "dev.cookie.nagare",
     "name": "anime Nexio",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "English anime direct streams, no debrid needed.",
     "authors": [
@@ -731,7 +731,7 @@
   {
     "packageName": "dev.cookie.nebulasports",
     "name": "Nebula Sports",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Live sports streams in up to 4K, World Cup included.",
     "authors": [
@@ -775,7 +775,7 @@
   {
     "packageName": "dev.cookie.novelaspt",
     "name": "Filmes & Novelas PT 🇵🇹",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Filmes, séries e novelas portuguesas.",
     "authors": [
@@ -1011,7 +1011,7 @@
   {
     "packageName": "dev.cookie.sportsstreams",
     "name": "Sports Streams",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Live and upcoming sports: football, cricket, UFC, tennis and more.",
     "authors": [
@@ -1109,7 +1109,7 @@
   {
     "packageName": "dev.cookie.yastream",
     "name": "Yastream 🇰🇷🇯🇵🇨🇳🇹🇭",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://stremio-hub.local",
     "description": "Asian dramas, movies and series with multi-provider streams.",
     "authors": [
